@@ -1,0 +1,7 @@
+.eggs/
+build/
+dist/
+*.egg-info/
+venv/
+playground.py
+setup.py
